@@ -56,24 +56,11 @@
 
   <section id="contact">
     <h2>Contact Me</h2>
-    <p>Email: john@example.com</p>
+    <p>Email: kondadevipriya123@example.com</p>
     <p>Phone: 123-456-7890</p>
   </section>
 
-  <footer>
-    <p>&copy; 2023 John Doe. All rights reserved.</p>
-  </footer>
-</body>
-</html>
-
-   
-
-
-
-
-    
-
-  <section class="resume">
+<section class="resume">
     <div class="container">
       <h2>Resume</h2>
       <p>Add your resume content here, such as your education, work experience, skills, etc.</p>
